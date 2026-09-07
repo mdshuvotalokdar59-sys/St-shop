@@ -1,0 +1,7 @@
+{
+  "name": "My Shopping Store",
+  "description": "An online shopping store app with product catalog, seamless ordering, inventory management, and customer order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
